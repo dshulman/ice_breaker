@@ -36,3 +36,5 @@ langchain-openai
 langchain-text-splitters
 langsmith
 markupsafe
+langchain-google-genai
+
