@@ -39,5 +39,5 @@
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 
-	"postCreateCommand": "python -m pip install --upgrade pip && pip install -r requirements.txt && echo export TZ='America/Chicago' >> ~/.bashrc && source ~/.bashrc"	
+	"postCreateCommand": "python -m pip install --upgrade pip && echo export TZ='America/Chicago' >> ~/.bashrc && source ~/.bashrc"	
 }
